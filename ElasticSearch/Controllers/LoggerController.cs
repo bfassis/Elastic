@@ -32,5 +32,31 @@ namespace ElasticSearch.Controllers
         
         }
 
+        [HttpPost]
+        [Route("info/")]
+        public async Task<IActionResult> LogInformacao([FromBody] LoggerRequest loggerRequest)
+        {
+            if (loggerRequest == null)
+                return BadRequest();
+
+            await _loggerService.LogInformation(loggerRequest);
+
+            return Ok();
+
+        }
+
+        [HttpPost]
+        [Route("warning/")]
+        public async Task<IActionResult> LogWarning([FromBody] LoggerRequest loggerRequest)
+        {
+            if (loggerRequest == null)
+                return BadRequest();
+
+            await _loggerService.LogWarning(loggerRequest);
+
+            return Ok();
+
+        }
+
     }
 }
