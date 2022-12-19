@@ -1,0 +1,14 @@
+﻿C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\Controllers\LoggerController.cs
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\Controllers\WeatherForecastController.cs
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\Dto\LoggerRequest.cs
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\Interfaces\ILoggerService.cs
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\Program.cs
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\Services\LoggerService.cs
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\Startup.cs
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\WeatherForecast.cs
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\obj\Debug\netcoreapp3.1\ElasticSearch.AssemblyInfo.cs
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\appsettings.Development.json
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\appsettings.json
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\docker\docker-compose.yml
+C:\Users\bruno.assis\source\repos\ElasticSearch\ElasticSearch\Properties\launchSettings.json
